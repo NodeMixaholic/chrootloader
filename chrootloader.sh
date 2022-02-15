@@ -1,3 +1,5 @@
+# In case the user has xserver-xorg installed, we put a line here so anyone can connect to the xserver session
+xhost +local:
 # Set an ID, make a mount point, and chroot into the drive.
 id=$RANDOM
 mkdir ~/root$id
