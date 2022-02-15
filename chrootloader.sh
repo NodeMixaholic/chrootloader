@@ -1,4 +1,4 @@
-# In case the user has xserver-xorg installed, we put a line here so anyone can connect to the xserver session
+# In case the user has xserver-xorg installed, we put a line here so anyone can connect to the xserver session (tldr: needs xserver-xorg and x11-xserver-utils)
 xhost +local:
 # Set an ID, make a mount point, and chroot into the drive.
 id=$RANDOM
