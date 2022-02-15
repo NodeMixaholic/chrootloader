@@ -1,5 +1,6 @@
 # chrootloader
-A bootloader for chrooting into Ubuntu Shells installed with cb-linux's breath project.
+A bootloader for chrooting into Ubuntu Shells installed with cb-linux's breath project until the installer works stable.
 
----
-See [Here](https://github.com/cb-linux/breath)
+## What is breath?
+
+See [here](https://github.com/cb-linux/breath)
